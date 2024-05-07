@@ -1,1 +1,1 @@
-# Laboratorio-de-Hardmare
+# Laboratorio-de-Hardware
